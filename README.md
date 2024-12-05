@@ -1,1 +1,1 @@
-# macOS-themes-for-Windows-10-and-11
+# macOS Themes for Windows 10 and 11
