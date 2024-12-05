@@ -28,13 +28,13 @@ search:
   button: false
   focus_shortcut_key: 'k'
 
-  pages:
-  - index.md
-  - 404.md
-  - themes.md
+pages:
+- index.md
+- 404.md
+- themes.md
 
-  nav_external_links:
-  - title: The Back Room
-    url: https://the-back-room.github.io/
-    hide_json: false
-    open_in_new_tab: false
+nav_external_links:
+- title: The Back Room
+  url: https://the-back-room.github.io/
+  hide_json: false
+  open_in_new_tab: false
