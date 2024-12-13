@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BigSur
-nav_order: 1.1.5
+nav_order: 2.5
 parent: Available Themes
 grand_parent: macOS Themes
 permalink: /themes/bigsur

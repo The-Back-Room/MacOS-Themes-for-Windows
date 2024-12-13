@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sonoma
-nav_order: 1.1.2
+nav_order: 2.2
 parent: Available Themes
 grand_parent: macOS Themes
 permalink: /themes/sonoma

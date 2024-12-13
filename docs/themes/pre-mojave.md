@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pre Mojave
-nav_order: 1.1.8
+nav_order: 2.8
 parent: Current Themes
 grand_parent: macOS Themes
 permalink: /themes/pre-mojave

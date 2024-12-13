@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Monterey
-nav_order: 1.1.4
+nav_order: 2.4
 parent: Available Themes
 grand_parent: macOS Themes
 permalink: /themes/monterey
