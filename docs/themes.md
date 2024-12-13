@@ -25,13 +25,19 @@ permalink: /themes
 
 <h2 align="center">Big Sur</h2>
 <p align="center">Big Sur Day</p>
+<p align="center"><img width="80%" src="/assets/Big Sur Day.jpg"></p>
 <p align="center">Big Sur Night</p>
+<p align="center"><img width="80%" src="/assets/Big Sur Night.png"></p>
 <p align="center">Big Sur Colorful Day</p>
+<p align="center"><img width="80%" src="/assets/Big Sur Colorful Day.png"></p>
 <p align="center">Big Sur Colorful Night</p>
+<p align="center"><img width="80%" src="/assets/Big Sur Colorful Night.png"></p>
 
 <h2 align="center">Catalina</h2>
 <p align="center">Catalina Day</p>
+<p align="center"><img width="80%" src="/assets/Catalina Day.jpg"></p>
 <p align="center">Catalina Night</p>
+<p align="center"><img width="80%" src="/assets/Catalina Night.png"></p>
 
 <h2 align="center">Mojave</h2>
 <p align="center">Mojave Day</p>
