@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Pre Mojave
+title: Others
 nav_order: 1.1.8
 parent: Available Themes
 grand_parent: MacOS Themes for Windows
-permalink: /themes/pre-mojave
+permalink: /themes/others
 ---
 
 <p align="center">High Sierra</p>

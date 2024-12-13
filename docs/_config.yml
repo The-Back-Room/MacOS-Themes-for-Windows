@@ -39,7 +39,7 @@ pages:
 - themes/monterey.md
 - themes/catalina.md
 - themes/mojave.md
-- themes/pre-mojave.md
+- themes/others.md
 
 nav_external_links:
 - title: Home
