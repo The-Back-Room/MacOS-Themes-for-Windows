@@ -32,6 +32,14 @@ pages:
 - index.md
 - 404.md
 - themes.md
+- themes/sequoia.md
+- themes/sonoma.md
+- themes/ventura.md
+- themes/bigsur.md
+- themes/monterey.md
+- themes/catalina.md
+- themes/mojave.md
+- themes/pre-mojave.md
 
 nav_external_links:
 - title: The Back Room

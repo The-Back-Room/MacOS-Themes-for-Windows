@@ -1,6 +1,7 @@
 ---
 layout: default
-title: macOS Themes
+title: MacOS Themes for Windows
+nav_order: 1
 peramlink: /
 ---
 
