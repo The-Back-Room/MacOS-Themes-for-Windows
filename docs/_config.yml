@@ -1,5 +1,5 @@
-title: MacOS Themes for Windows
-description: A collection of macOS Themes ported to Windows 10 and 11
+title: The Back Room
+description: Open-Source Development and Graphic Design
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
@@ -42,7 +42,15 @@ pages:
 - themes/pre-mojave.md
 
 nav_external_links:
-- title: The Back Room
+- title: Home
   url: https://the-back-room.github.io/
+  hide_json: false
+  open_in_new_tab: false
+- title: FFXIV Macros
+  url: https://the-back-room.github.io/FFXIV-Macros
+  hide_json: false
+  open_in_new_tab: false
+- title: Windows 7 Themes Revived
+  url: https://the-back-room.github.io/Windows-7-Themes-Revived/
   hide_json: false
   open_in_new_tab: false
