@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Sequoia
-nav_order: 1.1.1
+nav_order: 1
 parent: Available Themes
-grand_parent: MacOS Themes for Windows
 permalink: /themes/sequoia
 ---
 

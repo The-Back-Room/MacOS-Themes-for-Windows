@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Monterey
-nav_order: 1.1.4
+nav_order: 4
 parent: Available Themes
-grand_parent: MacOS Themes for Windows
 permalink: /themes/monterey
 ---
 

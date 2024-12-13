@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Ventura
-nav_order: 1.1.3
+nav_order: 3
 parent: Available Themes
-grand_parent: MacOS Themes for Windows
 permalink: /themes/ventura
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Catalina
-nav_order: 1.1.6
+nav_order: 5
 parent: Available Themes
-grand_parent: MacOS Themes for Windows
 permalink: /themes/catalina
 ---
 

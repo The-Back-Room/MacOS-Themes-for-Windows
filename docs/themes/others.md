@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Others
-nav_order: 1.1.8
+nav_order: 8
 parent: Available Themes
-grand_parent: MacOS Themes for Windows
 permalink: /themes/others
 ---
 
