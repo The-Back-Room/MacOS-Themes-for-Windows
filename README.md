@@ -4,8 +4,8 @@
 <p align="center">Download this project from any of the following locations</p>
 
 <a href="https://www.deviantart.com/og-nimbi/art/macOS-Themes-for-Windows-10-and-11-1129149403" target="_blank">
-    <img width="150" src="https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png" />
+    <img align="center" width="10%" src="https://upload.wikimedia.org/wikipedia/he/thumb/9/9e/Deviantart_logo.png/250px-Deviantart_logo.png" />
 </a>
 <a href="https://github.com/The-Back-Room/macOS-themes-for-Windows-10-and-11" target="_blank">
-    <img width="150" src="https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png" />
+    <img align="center" width="10%" src="https://www.tinydecozone.com/wp-content/uploads/2022/07/GitHub-Transparent-Background-PNG-Mart-720x295.png" />
 </a>
