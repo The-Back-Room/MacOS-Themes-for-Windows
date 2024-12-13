@@ -8,6 +8,6 @@ permalink: /themes/mojave
 ---
 
 <p align="center">Mojave Day</p>
-<!-- <p align="center"><img width="80%" src="../assets/MojaveDay.png" /></p> -->
+<p align="center"><img width="80%" src="../assets/Mojave Day.png" /></p>
 <p align="center">Mojave Night</p>
-<!-- <p align="center"><img width="80%" src="../assets/MojaveNight.png" /></p> -->
+<p align="center"><img width="80%" src="../assets/Mojave Night.png" /></p>

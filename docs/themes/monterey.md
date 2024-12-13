@@ -8,6 +8,6 @@ permalink: /themes/monterey
 ---
 
 <p align="center">Monterey Light</p>
-<!-- <p align="center"><img width="80%" src="../assets/MontereyLight.png" /></p> -->
+<p align="center"><img width="80%" src="../assets/Monterey Light.png" /></p>
 <p align="center">Monterey Dark</p>
-<!-- <p align="center"><img width="80%" src="../assets/MontereyDark.png" /></p> -->
+<p align="center"><img width="80%" src="../assets/Monterey Dark.png" /></p>
