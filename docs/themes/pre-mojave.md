@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Pre Mojave
-nav_order: 8
-parent: Current Themes
-grand_parent: macOS Themes
+nav_order: 1.1.8
+parent: Available Themes
+grand_parent: MacOS Themes for Windows
 permalink: /themes/pre-mojave
 ---
 

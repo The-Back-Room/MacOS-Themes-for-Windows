@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Available Themes
-nav_order: 2
+nav_order: 1.1
+parent: MacOS Themes for Windows
 permalink: /themes
 ---
 

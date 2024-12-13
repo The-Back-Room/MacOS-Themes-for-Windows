@@ -25,12 +25,12 @@ search:
   preview_words_after: 10
   tokenizer_separator: /[\s/]+/
   rel_url: true
-  button: false
+  button: true
   focus_shortcut_key: 'k'
 
 pages:
-- index.md
 - 404.md
+- index.md
 - themes.md
 - themes/sequoia.md
 - themes/sonoma.md
