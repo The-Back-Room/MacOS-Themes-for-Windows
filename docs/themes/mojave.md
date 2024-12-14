@@ -6,7 +6,7 @@ parent: Available Themes
 permalink: /themes/mojave
 ---
 
-<p align="center">Mojave Day</p>
-<p align="center"><img width="80%" src="../assets/Mojave Day.png" /></p>
-<p align="center">Mojave Night</p>
-<p align="center"><img width="80%" src="../assets/Mojave Night.png" /></p>
+<h4>Mojave Day</h4>
+<img src="../assets/Mojave Day.png" />
+<h4>Mojave Night</h4>
+<img src="../assets/Mojave Night.png" />
