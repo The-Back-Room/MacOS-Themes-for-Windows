@@ -21,7 +21,7 @@ permalink: /themes/others
 <h4>Lion</h4>
 <img src="../assets/Lion.png" />
 <h4>Snow Leopard</h4>
-<img width="80%" src="../assets/Snow Leopard.png" />
+<img src="../assets/Snow Leopard.png" />
 <h4>Snow Leopard Alt</h4>
 <img src="../assets/Snow Leopard Alt.png" />
 <h4>Leopard</h4>
