@@ -6,7 +6,7 @@ parent: Available Themes
 permalink: /themes/sequoia
 ---
 
-<p align="center">Sequoia Light</p>
-<p align="center"><img width="80%" src="../assets/Sequoia Light.png" /></p>
-<p align="center">Sequoia Dark</p>
-<p align="center"><img width="80%" src="../assets/Sequoia Dark.png" /></p>
+<h4>Sequoia Light</h4>
+<img src="../assets/Sequoia Light.png" />
+<h4>Sequoia Dar</h4>
+<img src="../assets/Sequoia Dark.png" />
