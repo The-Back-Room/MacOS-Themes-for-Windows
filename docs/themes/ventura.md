@@ -6,7 +6,7 @@ parent: Available Themes
 permalink: /themes/ventura
 ---
 
-<p align="center">Ventura Light</p>
-<p align="center"><img width="80%" src="../assets/Ventura Light.png" /></p>
-<p align="center">Ventura Dark</p>
-<p align="center"><img width="80%" src="../assets/Ventura Dark.png" /></p>
+<h4>Ventura Light</h4>
+<img src="../assets/Ventura Light.png" />
+<h4>Ventura Dark</h4>
+<img src="../assets/Ventura Dark.png" />
