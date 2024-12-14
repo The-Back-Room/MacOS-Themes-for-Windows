@@ -6,11 +6,11 @@ parent: Available Themes
 permalink: /themes/bigsur
 ---
 
-<p align="center">Big Sur Day</p>
-<p align="center"><img width="80%" src="../assets/BigSur Day.png"></p>
-<p align="center">Big Sur Night</p>
-<p align="center"><img width="80%" src="../assets/BigSur Night.png"></p>
-<p align="center">Big Sur Colorful Day</p>
-<p align="center"><img width="80%" src="../assets/BigSur Colorful Day.png"></p>
-<p align="center">Big Sur Colorful Night</p>
-<p align="center"><img width="80%" src="../assets/BigSur Colorful Night.png"></p>
+<h4>Big Sur Day</h4>
+<img src="../assets/BigSur Day.png">
+<h4>Big Sur Night</h4>
+<img src="../assets/BigSur Night.png">
+<h4>Big Sur Colorful Day</h4>
+<img src="../assets/BigSur Colorful Day.png">
+<h4>Big Sur Colorful Night</h4>
+<img src="../assets/BigSur Colorful Night.png">
