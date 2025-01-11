@@ -2,7 +2,7 @@ title: MacOS Themes for Windows
 description: MacOS Themes ported to Windows 10 and 11
 
 favicon_ico: "/assets/AppIcon.ico"
-logo: "/assets/AppLogo.gif"
+logo: "/assets/AppBanner.png"
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
