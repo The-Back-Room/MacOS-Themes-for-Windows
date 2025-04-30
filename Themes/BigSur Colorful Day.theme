@@ -23,37 +23,37 @@ Full=%SystemRoot%\System32\imageres.dll,-54
 Empty=%SystemRoot%\System32\imageres.dll,-55
 
 [Control Panel\Cursors]
-AppStarting=%ResourceDir%\Themes\MacOS\Cursors\appstarting.ani
-Arrow=%ResourceDir%\Themes\MacOS\Cursors\arrow.cur
-Crosshair=%ResourceDir%\Themes\MacOS\Cursors\crosshair.cur
-Hand=%ResourceDir%\Themes\MacOS\Cursors\hand.cur
-Help=%ResourceDir%\Themes\MacOS\Cursors\help.cur
-IBeam=%ResourceDir%\Themes\MacOS\Cursors\ibeam.cur
-No=%ResourceDir%\Themes\MacOS\Cursors\no.cur
-NWPen=%ResourceDir%\Themes\MacOS\Cursors\nwpen.cur
-SizeAll=%ResourceDir%\Themes\MacOS\Cursors\sizeall.cur
-SizeNESW=%ResourceDir%\Themes\MacOS\Cursors\sizenesw.cur
-SizeNS=%ResourceDir%\Themes\MacOS\Cursors\sizens.cur
-SizeNWSE=%ResourceDir%\Themes\MacOS\Cursors\sizenwse.cur
-SizeWE=%ResourceDir%\Themes\MacOS\Cursors\sizewe.cur
-UpArrow=%ResourceDir%\Themes\MacOS\Cursors\uparrow.cur
-Wait=%ResourceDir%\Themes\MacOS\Cursors\wait.ani
-Pin=%ResourceDir%\Themes\MacOS\Cursors\pin.cur
+AppStarting=%SystemRoot%\Resources\Themes\MacOS\Cursors\appstarting.ani
+Arrow=%SystemRoot%\Resources\Themes\MacOS\Cursors\arrow.cur
+Crosshair=%SystemRoot%\Resources\Themes\MacOS\Cursors\crosshair.cur
+Hand=%SystemRoot%\Resources\Themes\MacOS\Cursors\hand.cur
+Help=%SystemRoot%\Resources\Themes\MacOS\Cursors\help.cur
+IBeam=%SystemRoot%\Resources\Themes\MacOS\Cursors\ibeam.cur
+No=%SystemRoot%\Resources\Themes\MacOS\Cursors\no.cur
+NWPen=%SystemRoot%\Resources\Themes\MacOS\Cursors\nwpen.cur
+SizeAll=%SystemRoot%\Resources\Themes\MacOS\Cursors\sizeall.cur
+SizeNESW=%SystemRoot%\Resources\Themes\MacOS\Cursors\sizenesw.cur
+SizeNS=%SystemRoot%\Resources\Themes\MacOS\Cursors\sizens.cur
+SizeNWSE=%SystemRoot%\Resources\Themes\MacOS\Cursors\sizenwse.cur
+SizeWE=%SystemRoot%\Resources\Themes\MacOS\Cursors\sizewe.cur
+UpArrow=%SystemRoot%\Resources\Themes\MacOS\Cursors\uparrow.cur
+Wait=%SystemRoot%\Resources\Themes\MacOS\Cursors\wait.ani
+Pin=%SystemRoot%\Resources\Themes\MacOS\Cursors\pin.cur
 DefaultValue=Concept
 
 [Control Panel\Desktop]
-Wallpaper=%ResourceDir%\Themes\MacOS\Wallpapers\BigSur\Colorful Day.jpg
+Wallpaper=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\BigSur\Colorful Day.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
 
 [VisualStyles]
-Path=%ResourceDir%\Themes\Aero\Aero.msstyles
+Path=%SystemRoot%\Resources\Themes\Aero\Aero.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=1
 ColorizationColor=
-SystemMode=Light
+SystemMode=Dark
 AppMode=Light
 
 [boot]

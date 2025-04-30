@@ -2,7 +2,7 @@
 
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_THEMEI
-DisplayName=MacOS Jaguar
+DisplayName=MacOS BigSur Day
 SetLogonBackground=0
 
 ; Computer - SHIDI_SERVER
@@ -42,7 +42,7 @@ Pin=%SystemRoot%\Resources\Themes\MacOS\Cursors\pin.cur
 DefaultValue=Concept
 
 [Control Panel\Desktop]
-Wallpaper=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\Jaguar\001.png
+Wallpaper=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\BigSur\Day.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
