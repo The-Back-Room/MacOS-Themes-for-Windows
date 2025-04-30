@@ -53,7 +53,7 @@ ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=1
 ColorizationColor=
-SystemMode=Light
+SystemMode=Dark
 AppMode=Light
 
 [boot]
