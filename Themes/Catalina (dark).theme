@@ -1,9 +1,9 @@
 ; Copyright   Microsoft Corp.
 
 [Theme]
-; Windows - IDS_THEME_DISPLAYNAME_THEMEI
-DisplayName=MacOS Mojave Dark
-SetLogonBackground=0
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Catalina (dark)
+SetLogonBackground=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\Catalina\002.jpg
 
 ; Computer - SHIDI_SERVER
 [CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
@@ -42,7 +42,7 @@ Pin=%SystemRoot%\Resources\Themes\MacOS\Cursors\dark\pin.cur
 DefaultValue=Concept
 
 [Control Panel\Desktop]
-Wallpaper=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\Mojave\Dark.jpg
+Wallpaper=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\Catalina\001.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
@@ -51,7 +51,6 @@ Pattern=
 Path=%SystemRoot%\Resources\Themes\Aero\Aero.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
-AutoColorization=0
 AutoColorization=1
 ColorizationColor=
 SystemMode=Dark
