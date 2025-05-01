@@ -68,7 +68,5 @@ SchemeName=@%SystemRoot%\System32\mmres.dll,-800
 
 [Slideshow]
 Interval=1800000
-Shuffle=0
+Shuffle=1
 ImagesRootPath=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\Snow Leopard
-Item0Path=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\Snow Leopard\001.jpg
-Item1Path=%SystemRoot%\Resources\Themes\MacOS\Wallpapers\Snow Leopard\002.jpg
