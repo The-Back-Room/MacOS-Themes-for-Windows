@@ -51,7 +51,6 @@ Pattern=
 Path=%SystemRoot%\Resources\Themes\Aero\Aero.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
-AutoColorization=0
 AutoColorization=1
 ColorizationColor=
 SystemMode=Dark
